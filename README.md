@@ -1,0 +1,1 @@
+This is Kathi's first git project.
